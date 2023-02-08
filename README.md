@@ -11,5 +11,5 @@
 
 ## Running on 
 <a href="">
-      <img src="http://img.shields.io/static/v1?label=RENDER&message=Click here to access&color=cian&style=for-the-badge&logo=render"/>
+      <img src="http://img.shields.io/static/v1?label=RENDER&message=Click here to access&color=cyan&style=for-the-badge&logo=render"/>
 </a>
